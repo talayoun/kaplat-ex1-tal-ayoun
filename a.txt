@@ -1,2 +1,3 @@
 file a
 another line
+more lines
